@@ -1,4 +1,4 @@
-# Twitter_api
+# Twitter_API 
 Data Analysis using Twitter Data
 
 - With LiveTweets.py we will be able to view the text of Twitter data streaming in real-time containing specific words.
@@ -6,6 +6,8 @@ For example run ./LiveTweets.py DataScience to see the tweets containing the wor
 
 - With PlotTweets.py we can create plots of the frequency of streaming Twitter data to see how popular a word is.
 Forexample run ./PlotTweets.py DataScience to create the plot for the word DataScience
+
+![Alt text](https://github.com/rajsiddarth/Twitter_api/blob/master/images/Plottweets_India.JPG "Tweets per second contating word India")
 
 # Instructions for building a Twitter App
 
