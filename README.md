@@ -9,6 +9,9 @@ Forexample run ./PlotTweets.py DataScience to create the plot for the word DataS
 
 ![Tweets per second contating word India](https://github.com/rajsiddarth/Twitter_api/blob/master/images/Plottweets_India.JPG "Tweets per second contating word India")
 
+
+![](https://github.com/rajsiddarth/Twitter_api/blob/master/images/Plottweets_USA.JPG)
+
 # Instructions for building a Twitter App
 
 1. Go to https://apps.twitter.com/ and sign in 
