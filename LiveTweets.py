@@ -1,5 +1,3 @@
-#!/usr/bin/python
-
 import json
 import sys
 from tweepy import OAuthHandler, Stream
