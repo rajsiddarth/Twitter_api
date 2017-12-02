@@ -18,6 +18,8 @@ Forexample run ./PlotTweets.py DataScience to create the plot for the word DataS
     - echo "your consumer secret" >>auth
  4. Click in "Create access token"
  
- 5. Note the Access Token and Access token secret and run the above commands using your strings
+ 5. Note the Access Token and Access token secret and run the following :
  
+    - echo "your  Access Token " >>auth
+    - echo "your Access token secret" >>auth
  
