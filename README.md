@@ -7,7 +7,7 @@ For example run ./LiveTweets.py DataScience to see the tweets containing the wor
 - With PlotTweets.py we can create plots of the frequency of streaming Twitter data to see how popular a word is.
 Forexample run ./PlotTweets.py DataScience to create the plot for the word DataScience
 
-!Tweets per second contating word India](https://github.com/rajsiddarth/Twitter_api/blob/master/images/Plottweets_India.JPG "Tweets per second contating word India")
+![Tweets per second contating word India](https://github.com/rajsiddarth/Twitter_api/blob/master/images/Plottweets_India.JPG "Tweets per second contating word India")
 
 # Instructions for building a Twitter App
 
